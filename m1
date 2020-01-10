@@ -3,14 +3,14 @@
 int main()
 {
 
-int a;
+int i;
 
 printf("Enter a  no : ");
 scanf("%d",&a);
 
-if(a%2 == 0)
+if(i%2 == 0)
 {
-    printf("%d even no",a);
+    printf("%d even no",i);
 
 }
 
